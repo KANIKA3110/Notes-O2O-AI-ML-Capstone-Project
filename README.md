@@ -1,4 +1,4 @@
-# Notes-O2O-Capstone-Project
+# "Notes O2O" - Capstone Project
 
 This project is made based on the learnings from TechSaksham AI and ML training by Microsoft, SAP and Edunet Foundation.
 
