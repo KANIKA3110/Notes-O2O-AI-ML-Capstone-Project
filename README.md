@@ -1,6 +1,7 @@
 # "Notes O2O" - Capstone Project
 
 This project is made based on the learnings from TechSaksham AI and ML training by Microsoft, SAP and Edunet Foundation.
+Connect at: https://www.linkedin.com/in/kanikajoshi-kj/
 
 **Abstract:**
 Sometimes, students get inefficient in managing and accessing notes, assignments, lectures etc., which they have to work on day-to-day basis. It gets difficult for a student to keep a record of notes, matching the pace of teachers in class, efficiently utilizing the notes, assignments, etc for revision. There is also a lack of choice of mode in which a student wants to access or manage the notes.
